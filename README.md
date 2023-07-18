@@ -1,2 +1,2 @@
-netqmail
+Java lessons and projects.
 ========
